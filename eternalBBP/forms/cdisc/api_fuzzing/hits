@@ -15,6 +15,7 @@ api/createCards-1.3b.min.js.gz
 api/data.js
 api/embed/html/js/embed-2.0.2.js
 api/endpoints/product_reviews.php
+api/en/popular-destinations.json
 api/fcaptcha_api.min.js
 api/featured_products.json
 api/feeds/afi-esca.html
@@ -81,6 +82,7 @@ rest/captcha/v2/widget.module.min.js
 rest/webchat/p/CINCGFU2EO/init.js
 rest/webchat/p/ZLLGC4NB7R/init.js
 v1/0TFAIhHRaLLP/reports/astronomy/sun/events.json
+v1/atlantis.min.v1.3.js
 v1/chunks/junip.195.js
 v1/data/static/surveys.js
 v1/font/NotoSerifKR/NotoSerifKR-SemiBold.woff
@@ -104,6 +106,7 @@ v1/wp-content/plugins/wp-jquery-lightbox/jquery.lightbox.min.js
 v1/wp-content/themes/Divi/js/custom.min.js
 v1/wp-content/themes/woodmart/fonts/woodmart-font-1-400.woff2
 v1/wp-includes/js/dist/vendor/wp-polyfill.min.js
+v2/api.ventusky_hurricane.json.php
 v2/app/_next/static/QezZGDyxOPc98q4VKFKgL/_ssgManifest.js
 v2/assets/eventPage-BvHHz6E9.js
 v2/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2
