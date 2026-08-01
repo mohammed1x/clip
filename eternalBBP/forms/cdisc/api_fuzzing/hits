@@ -72,6 +72,7 @@ api/v1/track/locals/home_page.json
 api/v1/websites/west-orange-motor-toyota/website_session_data.json
 api/v1/website-widgets/file/embed-code-10.js
 api/v2/hervis-spa.de/i18n-assets/de/category.json
+api/v2/locales/en/translations27e3.js
 api/v2/organizations/cuu.json
 api/v2/users/me.json
 api/v4/AQQNX47-rHqfmGLb2Eg.js
@@ -94,6 +95,7 @@ v1/media/MHKpTqVv/images/card.webp
 v1/media/vendor/accessibility/js/accessibility.min.js
 v1/nordea/NordeaSansLargeWeb-Bold.woff2
 v1/public/ibm-plex-serif-v19-latin-regular.woff2
+v1/public/thumb_brand.php
 v1/published/24/app.js
 v1/quick-bites/fusaka/timeseries_gas/Pectra.json
 v1/reserve/BS301M-DDH.A
@@ -101,6 +103,7 @@ v1/Scripts/PWCheckout.js
 v1/settings/157QAnPmUeYImZxEKzpuLQ.json
 v1/settings/-vtEJMIiGXWaVo9GlESVGA.json
 v1/settings/xx_LoGyyFssvYluKhY8_7g.json
+v1/widget-config/CENTLPA.json
 v1/wp-content/plugins/cleantalk-spam-protect/js/apbct-public--functions.min.js
 v1/wp-content/plugins/wp-jquery-lightbox/jquery.lightbox.min.js
 v1/wp-content/themes/Divi/js/custom.min.js
