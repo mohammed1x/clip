@@ -71,6 +71,7 @@ api/v4/AQQNX47-rHqfmGLb2Eg.js
 api/views/7rr7-v27q.json
 api/voicemail/widget/the-nick-taylor-horror-show.js
 a/v1/js/chunk-af569dfa.94efdf90.js
+rest/captcha/v2/widget.module.min.js
 rest/webchat/p/CINCGFU2EO/init.js
 rest/webchat/p/ZLLGC4NB7R/init.js
 v1/0TFAIhHRaLLP/reports/astronomy/sun/events.json
@@ -79,6 +80,7 @@ v1/font/NotoSerifKR/NotoSerifKR-SemiBold.woff
 v1/getappsettings.php
 v1/groups/gazetka-promocyjna-makro-login/publications/odido-zima-dobrych-okazji-6xyrvdqmlay9.json
 v1/img/showcase-7.webp
+v1/js/chunk-27fbed4c.c0fdba30.js
 v1/media/MHKpTqVv/images/card.webp
 v1/media/vendor/accessibility/js/accessibility.min.js
 v1/nordea/NordeaSansLargeWeb-Bold.woff2
@@ -98,6 +100,7 @@ v1/wp-includes/js/dist/vendor/wp-polyfill.min.js
 v2/app/_next/static/QezZGDyxOPc98q4VKFKgL/_ssgManifest.js
 v2/assets/eventPage-BvHHz6E9.js
 v2/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2
+v2/assets/i18n/ms-MY.json
 v2/assets/js/36.6ec136eb.js
 v2/assets/js/plugins/slick.min.js
 v2/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js
