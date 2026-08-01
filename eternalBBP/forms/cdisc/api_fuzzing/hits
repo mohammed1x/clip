@@ -10,6 +10,8 @@ api/channel/hls/loreweaver15.m3u8
 api/channel/hls/mces.m3u8
 api/client/agular/main037.js
 api/config/ilovetocreate.myshopify.com/conf.json
+api/Content/flexslider2/lib/jquery.flexslider-min.js
+api/createCards-1.3b.min.js.gz
 api/data.js
 api/embed/html/js/embed-2.0.2.js
 api/endpoints/product_reviews.php
@@ -65,6 +67,7 @@ api/v1/Opb_mM3jRxZ2RSoBGrsasA/load.js
 api/v1/pageStructures/getListByPage.json
 api/v1/public/site/unfallpaten.de/declaration.js
 api/v1/script/shop/home-tomato.myshopify.com/widget.js
+api/v1/track/locals/home_page.json
 api/v1/websites/west-orange-motor-toyota/website_session_data.json
 api/v1/website-widgets/file/embed-code-10.js
 api/v2/hervis-spa.de/i18n-assets/de/category.json
