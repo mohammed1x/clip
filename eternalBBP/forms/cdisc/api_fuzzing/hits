@@ -54,6 +54,7 @@ api/ssd/7xfhutefmzgw.js
 api/startwithbitrix/external_block.php
 api/tenantboot/1_T8QI/chunk-vendors~._node_modules_core-js_modules_es.t.js
 api/tenantboot/2_XBBZ/chunk-vendors~eb28bb5f.js
+api/thumbnail/96/869.webp
 api/tools01/popup01/install.php
 api/tools/www.ogr.com.au
 api/unstable/graphql.json
@@ -126,6 +127,7 @@ v2/common/libs/angular/ui-router.min.js
 v2/compiled/error_pages/es.html
 v2/concrete/js/jquery.js
 v2/Content/JS/GoogleRecaptcha/GoogleRecaptcha.js
+v2/data/devices_type.json
 v2/examples/vue-10-two-way-currency-filter/index.html
 v2/fin/Picture.3.webp
 v2/fonts/Inter-Medium.woff2
@@ -152,10 +154,12 @@ v2/jtg/PictureLanguage.172.11.webp
 v2/login/bg.webp
 v2/luckycode.webp
 v2/media/com_finder/js/finder.min.js
+v2/PG1/Platform.23.4.1.webp
 v2/resources/js/ui.menu.js
 v2/sites/DiWeEbib/media/if5TP6Ht/playback.json
 v2/sites/HhZ3QM5r/media/OHw7NVAJ/playback.json
 v2/smile.v2.js
+v2/TC/images/sidebar/spin/spin-03.s.webp
 v2/vendor/animsition/js/animsition.min.js
 v2/visitor/js/widget-loader.js
 v2/W98/images/footer/games.webp
