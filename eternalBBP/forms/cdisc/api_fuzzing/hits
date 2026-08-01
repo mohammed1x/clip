@@ -3,6 +3,7 @@ api/advice_times.php
 api/ajax/cruises.json
 api/assets/js/maps/infoPopup.js
 api/as/v1/engines/tab-blog-au-prod/search.json
+api/basket/get.php
 api/batterySearch/sl_SI/type.json
 api/carllist_json.php
 api/category/Hulu.json
@@ -75,6 +76,7 @@ api/v1/website-widgets/file/embed-code-10.js
 api/v2/hervis-spa.de/i18n-assets/de/category.json
 api/v2/locales/en/translations27e3.js
 api/v2/organizations/cuu.json
+api/v2/universidad.ara.coapi/archive/selectInqCntntsList.json
 api/v2/users/me.json
 api/v4/AQQNX47-rHqfmGLb2Eg.js
 api/views/7rr7-v27q.json
@@ -112,6 +114,7 @@ v1/wp-content/themes/woodmart/fonts/woodmart-font-1-400.woff2
 v1/wp-includes/js/dist/vendor/wp-polyfill.min.js
 v2/api.ventusky_hurricane.json.php
 v2/app/_next/static/QezZGDyxOPc98q4VKFKgL/_ssgManifest.js
+v2/assets/Error404Page-CmnrVzxo.js
 v2/assets/eventPage-BvHHz6E9.js
 v2/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2
 v2/assets/i18n/ms-MY.json
