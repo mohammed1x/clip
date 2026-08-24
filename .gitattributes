@@ -1,3 +1,6 @@
 ko2/1.mkv filter=lfs diff=lfs merge=lfs -text
 ko2/2.mkv filter=lfs diff=lfs merge=lfs -text
 ko2/3.mkv filter=lfs diff=lfs merge=lfs -text
+ko1/2.mkv filter=lfs diff=lfs merge=lfs -text
+ko1/3.mkv filter=lfs diff=lfs merge=lfs -text
+ko1/1.mkv filter=lfs diff=lfs merge=lfs -text
