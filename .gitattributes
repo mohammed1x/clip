@@ -31,3 +31,9 @@ ko1/08.mkv filter=lfs diff=lfs merge=lfs -text
 /tmp/clip/ko1/20.mkv filter=lfs diff=lfs merge=lfs -text
 /tmp/clip/ko1/11.mkv filter=lfs diff=lfs merge=lfs -text
 /tmp/clip/ko1/17.mkv filter=lfs diff=lfs merge=lfs -text
+/tmp/clip/2022___/1.mkv filter=lfs diff=lfs merge=lfs -text
+/tmp/clip/2022___/2.mkv filter=lfs diff=lfs merge=lfs -text
+/tmp/clip/2022___/3.mkv filter=lfs diff=lfs merge=lfs -text
+/tmp/clip/2022___/4.mkv filter=lfs diff=lfs merge=lfs -text
+/tmp/clip/2022___/5.mkv filter=lfs diff=lfs merge=lfs -text
+/tmp/clip/2022___/6.mkv filter=lfs diff=lfs merge=lfs -text
